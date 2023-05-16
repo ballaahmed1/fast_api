@@ -59,7 +59,7 @@ typing-extensions==3.7.4.3
 tzdata==2021.1
 urllib3==1.26.4
 uvicorn==0.13.4
-watchfiles==0.7.0
+watchfiles==0.15.0
 websockets==8.1
 Werkzeug==2.0.1
 wrapt==1.12.1
