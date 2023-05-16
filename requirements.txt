@@ -21,7 +21,7 @@ jax==0.3.10
 idna==2.10
 joblib==0.14.1
 keras==2.3.1
-libclang==10.0.0.2
+libclang==11.0.0
 Markdown==3.3.4
 MarkupSafe==2.0.1
 ml-dtypes==1.0.0
